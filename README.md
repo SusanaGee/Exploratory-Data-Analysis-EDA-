@@ -8,11 +8,11 @@ Aquí encontrarás un paso a paso completo sobre **cómo realizar adecuadamente 
 
 En este proyecto vas a explorar las **técnicas más útiles de EDA** aplicadas a un caso real y apasionante. A lo largo del camino:
 
-- Visualizarás patrones ocultos entre los pasajeros.
-- Aprenderás a limpiar, transformar y analizar datos.
-- Descubrirás pistas que nos ayudarán a descifrar algunos de los **misterios más grandes de este famoso hundimiento**.
-- Aplicarás buenas prácticas de visualización para comunicar hallazgos de manera clara y efectiva.
-
+**1.** 📂 Aprenderás cómo cargar adecuadamente una base de datos.  
+**2.** 🔍 Aprenderás cómo visualizar tu base de datos por fragmentos, lo que te permitirá hacerte una idea de la organización de tus datos.  
+**3.** 🧩 Aprenderás qué manejo le podemos dar (en algunas ocasiones) a los datos faltantes, así como tus primeras bases en la imputación de datos.  
+**4.** 📊 Veremos cómo se pueden obtener estadísticas descriptivas y el correspondiente análisis de la valiosa información que estas nos pueden proporcionar.  
+**5.** 📈 Comenzarás a incursionar en el mundo de los gráficos como herramientas imprescindibles en el análisis de datos y la extracción de conclusiones adicionales.  
 
 ## 🚀 ¿Y ahora qué?
 
